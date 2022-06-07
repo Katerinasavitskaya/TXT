@@ -1,0 +1,17 @@
+ID:12345 
+Reporter:Katerina Savitsakaya
+Assigned To:Katerina Savitsakaya
+Priority:Medium
+Severity:Low
+Status:Accepted
+Resolution:Open
+Platform:Google Chrome 102.0.5005.63
+OS:Windows 8.1, 6.3.9600
+Summary: 12345: Links and text are cut in the website footer after viewing website in the brouser.
+Description:Links and text are cut in the website footer after viewing website in the brouser.
+Steps To Reproduce:
+1. Go to website http://somesite.com.ua/en/
+2. Go to the website footer.
+3. Pay attention to the links and text in the footer
+Actual result:Links and text are cut in the website footer after viewing website in the brouser
+Expected result:Links and text are displayed correctly in the website footer after viewing website in the brouser
