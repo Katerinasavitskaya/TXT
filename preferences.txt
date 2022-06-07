@@ -1,0 +1,4 @@
+Favorite_film: Inception
+Favorite_series: Game of Thrones
+Favorite_food: Fruit
+The_country_I_would_like_to_visit: The United Kingdom of Great Britain and Northern Ireland
